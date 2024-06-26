@@ -17,6 +17,7 @@
 7. Real-time Chat App
 8. Real-time Location Tracker
 9. Real-time Editor (like Notion)
+10. Word Crush Game
 
 # I also should make my own
 - My Own Git

@@ -1,16 +1,20 @@
 # API
 - NextJS Serverless Functions
 
-- Database
+# Database
   - MongoDB (NoSQL)
   - Supabase (PostgreSQL)
-- Email 
+
+# Email 
   - Mailgun
-- Payment
+
+# Payment
   - Stripe
-- Hosting 
+
+# Hosting 
   - Vercel
-- CMS
+
+# CMS
   - Payload 
     - [Integrate w Supabase](https://payloadcms.com/blog/setting-up-payload-with-supabase-for-your-nextjs-app-a-step-by-step-guide?ref=dailydev)
   - Strapi
@@ -20,12 +24,14 @@
   - KeystoneJS
   - Directus 
     - [Building an E-commerce Website With Directus and Next.js](https://docs.directus.io/blog/build-an-e-commerce-website-with-directus-and-next-js.html?ref=dailydev)
-- ORM
+
+# ORM
   - Drizzle 
   - Prisma
   - Sequelize
   - TypeORM
-- ODM 
+
+# ODM 
   - Mongoose
   - Prisma
   - Firebase FireStone

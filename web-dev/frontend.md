@@ -73,6 +73,7 @@
 # animations
 - [GSAP](https://gsap.com/)
 - [Aceternity](https://ui.aceternity.com/)
+- [Glaze](https://glaze.dev/)
 
 # CI/CD
 - Argo
