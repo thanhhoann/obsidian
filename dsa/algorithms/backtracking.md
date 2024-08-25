@@ -1,0 +1,1 @@
+- Used for problems involving permutations, combinations, and other scenarios where you need to explore all possible configurations.

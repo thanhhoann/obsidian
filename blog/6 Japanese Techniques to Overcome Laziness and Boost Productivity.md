@@ -1,0 +1,6 @@
+1. **Kaizen (Continuous Improvement):** Focus on making small, incremental changes in your habits. The idea is that consistent, small improvements can lead to significant changes over time.
+2. **Pomodoro Technique (Time Management):** Although not originally Japanese, this technique aligns well with Kaizen. Work for 25 minutes, take a 5-minute break, and repeat. This method helps in maintaining focus and productivity.
+3. **Ikigai (Reason for Being):** Find your purpose or passion. Understanding what drives you can help you stay motivated and overcome laziness.
+4. **Shitsuke (Discipline):** Part of the 5S methodology, Shitsuke emphasizes self-discipline and habit formation, helping you stay on track with your goals.
+5. **Mottainai (Avoid Wastefulness):** This concept encourages you to avoid wasting resources, including time and energy. It can motivate you to use your time wisely and overcome procrastination.
+6. **Nemawashi (Consensus Building):** In a work context, this involves laying the groundwork and gaining support before making decisions. In personal productivity, it can mean preparing mentally and setting up your environment to reduce resistance to starting tasks.

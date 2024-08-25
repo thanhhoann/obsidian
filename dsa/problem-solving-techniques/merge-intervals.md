@@ -1,0 +1,1 @@
+- Used for problems involving intervals, such as merging overlapping intervals or finding gaps.

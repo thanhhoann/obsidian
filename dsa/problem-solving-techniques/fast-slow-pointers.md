@@ -1,0 +1,1 @@
+- Used for problems related to cycles in linked lists or arrays.

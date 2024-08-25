@@ -1,5 +1,6 @@
 # API
 - NextJS Serverless Functions
+- Honojs
 
 # Database
   - MongoDB (NoSQL)

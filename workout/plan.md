@@ -1,27 +1,16 @@
-# history
-## 26/1
-- 3 x 4 dimsum (45) = 540 cal
+# Diet plan
+## BMR
+> BMR = 10 x weight(kg) + 6.25 x height(cm) - 5 x age(years) + 5
+- My BMR = 10 x 80 + 6.25 x 176 - 5 x 22 + 5 = 1795 calories/day
 
-# summary
-- BMR = 1840
-- TDEE = 2850 (exercise 3-5 days per week)
-- to lose 0.45kg per week, daily calorie consume < 2300
+## TDEE 
+> TDEE = BMR x Activity level
+### Activity Level: 
+- Sedentary (little or no exercise) : 1.2
+- Lightly active (light exercise/sports 1-3 days/week) : 1.375
+- Moderately active (moderate exercise/sports 3-5 days/week) : 1.55
+- Very active (hard exercise/sports 6-7 days a week) : 1.725
+- Super active (very hard exercise & physical job or 2x training) : 1.9
 
-# BMR
-- **BMR** is the number of calories needed to maintain basic life-sustaining functions, such as breathing, maintaining blood pressure, and digesting food. 
-- Male BMR formula 
-	- = 66 + (6.23 × weight in pounds) + (12.7 × height in inches) − (6.8 × age in years)
-	- = 66 + (6.23 x 167.5) + (12.7 x 68.8) - (6.8 x 21)
-	- = 1840.485
-
-# TDEE
-- **TDEE**, which is the total number of calories you burn including your BMR. 
-- Your TDEE equals your maintenance calories. 
-
-- **moderate exercise 3-5 days per week**
-=> TDEE = 1.55 × 1840.485 = 2852.75175
-
-# calorie deficit
-- you need to eat 500 calories less than your maintenance calories a day to lose 0.45kg a week.
-=> eat 2300 calorie per day to lose 0.45kg per week
-
+Assuming 1.55, my TDEE = 1795 x 1.55 = 2784 calories/day
+=> Need to - 500 calories = 2284 calories/day

@@ -1,0 +1,1 @@
+- Used for problems involving subarrays or substrings, particularly when you need to find the maximum, minimum, or a specific condition within a window of fixed size.
