@@ -11,8 +11,6 @@
 		{"id":"51139ff21cc04d55","type":"text","text":"tag user on post","x":-960,"y":525,"width":223,"height":55,"color":"#ff0000"},
 		{"id":"11b1634901611a44","type":"text","text":"loading skeleton","x":-593,"y":-1180,"width":250,"height":60,"color":"#00ff2a"},
 		{"id":"9cbf0c6b485c936c","type":"text","text":"debounce","x":-705,"y":-1080,"width":133,"height":50,"color":"#1eff00"},
-		{"id":"eaf665ede50d3776","type":"text","text":"newly created post","x":-242,"y":40,"width":250,"height":60},
-		{"id":"1bb92d2e5f4b5ed6","type":"text","text":"newly created comment","x":-414,"y":-57,"width":250,"height":60},
 		{"id":"90993f1991dc7663","type":"text","text":"custom post reactions","x":-990,"y":-340,"width":250,"height":60,"color":"#ff00c8"},
 		{"id":"50c57c624d6f2f54","type":"text","text":"sign in","x":-971,"y":75,"width":122,"height":50,"color":"4"},
 		{"id":"e721adaa3d40b7af","type":"text","text":"convert to client-side ","x":-1460,"y":139,"width":280,"height":59,"color":"#00ff33"},
@@ -24,7 +22,6 @@
 		{"id":"ba057d5c79f7a15e","type":"text","text":"forgot password","x":-746,"y":15,"width":201,"height":60,"color":"#ff0000"},
 		{"id":"5d18068983d053c0","type":"text","text":"user","x":20,"y":580,"width":96,"height":53},
 		{"id":"257de51c01c713c3","type":"text","text":"report","x":-52,"y":405,"width":120,"height":50,"color":"#ff0000"},
-		{"id":"6dff61370f097bb7","type":"text","text":"undo","x":-96,"y":-107,"width":133,"height":50,"color":"#ff0000"},
 		{"id":"ce7005c981725733","type":"text","text":"comment","x":-9,"y":255,"width":125,"height":50},
 		{"id":"2300b10a2190810e","type":"text","text":"share post","x":-307,"y":280,"width":166,"height":50,"color":"#ff0000"},
 		{"id":"d036df05e5555004","type":"text","text":"user settings","x":-30,"y":-684,"width":191,"height":60,"color":"#ff0000"},
@@ -45,7 +42,12 @@
 		{"id":"be6326f585b3a995","x":-1002,"y":-140,"width":306,"height":50,"type":"text","text":"research on cookie, session"},
 		{"id":"ea41d92457ed7544","x":-2400,"y":-864,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=DJvM2lSPn6w&t=381s"},
 		{"id":"d6792ed3b854c86e","x":-2520,"y":-217,"width":600,"height":713,"type":"link","url":"https://nextjs.org/docs/app/building-your-application/authentication#authentication"},
-		{"id":"f3f8bbd76eed1475","type":"file","file":"web-dev/projects/piz/post-reaction-feature.png","x":-1579,"y":-456,"width":399,"height":52}
+		{"id":"f3f8bbd76eed1475","type":"file","file":"web-dev/projects/piz/post-reaction-feature.png","x":-1579,"y":-456,"width":399,"height":52},
+		{"id":"6dff61370f097bb7","type":"text","text":"undo","x":-200,"y":-140,"width":133,"height":50,"color":"#ff0000"},
+		{"id":"1bb92d2e5f4b5ed6","type":"text","text":"newly created comment","x":-583,"y":-200,"width":250,"height":60},
+		{"id":"eaf665ede50d3776","type":"text","text":"newly created post","x":-400,"y":15,"width":250,"height":60},
+		{"id":"a484b2461e0d3576","x":-81,"y":75,"width":233,"height":75,"color":"#ff00d0","type":"text","text":"images & videos self-hosted"},
+		{"id":"0dee0e0d91b7ffdb","x":400,"y":-45,"width":250,"height":60,"type":"text","text":"next-cloud"}
 	],
 	"edges":[
 		{"id":"11ac97b85d35dcd4","fromNode":"f49e79736dd6c769","fromSide":"left","toNode":"7ca6b9e1640d478f","toSide":"bottom"},
@@ -76,6 +78,7 @@
 		{"id":"20529b49d7d99d0b","fromNode":"4d3912c88456ba0c","fromSide":"right","toNode":"77e301b7430a5bc5","toSide":"right"},
 		{"id":"14bfeec071bcbb5c","fromNode":"b260d16d013273b2","fromSide":"top","toNode":"11b1634901611a44","toSide":"bottom"},
 		{"id":"f136204e45d9774e","fromNode":"be6326f585b3a995","fromSide":"left","toNode":"d6792ed3b854c86e","toSide":"right"},
-		{"id":"7a190a3e5f6f5472","fromNode":"be6326f585b3a995","fromSide":"left","toNode":"ea41d92457ed7544","toSide":"bottom"}
+		{"id":"7a190a3e5f6f5472","fromNode":"be6326f585b3a995","fromSide":"left","toNode":"ea41d92457ed7544","toSide":"bottom"},
+		{"id":"b969f280411aaa74","fromNode":"a484b2461e0d3576","fromSide":"right","toNode":"0dee0e0d91b7ffdb","toSide":"left"}
 	]
 }
