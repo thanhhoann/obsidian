@@ -16,6 +16,7 @@ kanban-plugin: board
 	[Prisma Client RLS Example](https://github.com/prisma/prisma-client-extensions/tree/main/row-level-security#prisma-client-extension---row-level-security)
 	
 	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
+- [ ] add real data to posts
 
 
 ## backlog
