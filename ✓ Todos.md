@@ -17,6 +17,7 @@ kanban-plugin: board
 	
 	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
 - [ ] add real data to posts
+- [ ] toast 🔼
 
 
 ## backlog
