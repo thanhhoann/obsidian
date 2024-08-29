@@ -18,6 +18,7 @@ kanban-plugin: board
 	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
 - [ ] add real data to posts
 - [ ] toast 🔼
+- [ ] config font
 
 
 ## backlog
@@ -27,6 +28,7 @@ kanban-plugin: board
 	https://tanstack.com/query/latest/docs/framework/react/community/tkdodos-blog
 - [ ] make newly created post above all posts in user feed
 	#user-feed
+- [ ] [consider using neobrutalism style components](https://www.neobrutalism.dev/)
 
 
 ## learns
