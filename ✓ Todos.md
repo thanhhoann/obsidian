@@ -12,13 +12,6 @@ kanban-plugin: board
 	_Build_ as _simplest as you can_
 - [ ] learn dsa  @{17-08}
 - [ ] sửa xe @{22-08}
-- [ ] enable RLS
-	[Prisma Client RLS Example](https://github.com/prisma/prisma-client-extensions/tree/main/row-level-security#prisma-client-extension---row-level-security)
-	
-	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
-- [ ] add real data to posts
-- [ ] toast 🔼
-- [ ] config font
 
 
 ## backlog
@@ -29,6 +22,13 @@ kanban-plugin: board
 - [ ] make newly created post above all posts in user feed
 	#user-feed
 - [ ] [consider using neobrutalism style components](https://www.neobrutalism.dev/)
+- [ ] toast 🔼
+- [ ] add real data to posts
+- [ ] config font
+- [ ] enable RLS
+	[Prisma Client RLS Example](https://github.com/prisma/prisma-client-extensions/tree/main/row-level-security#prisma-client-extension---row-level-security)
+	
+	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
 
 
 ## learns
