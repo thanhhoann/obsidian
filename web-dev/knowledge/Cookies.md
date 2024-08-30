@@ -1,0 +1,3 @@
+Cookies are like tiny notes that websites give to your computer or phone. These notes help the website remember who you are when you come back, like your name or your favorite things. It's like when you leave your toy in a special spot so you can find it again later!
+
+Cookies are small pieces of data that are stored on a user’s device by their web browser after they visit a website. They can serve multiple purposes but they’re often used for customization and personalization, session management as well as tracking and analytics, and powering targeted advertising.
