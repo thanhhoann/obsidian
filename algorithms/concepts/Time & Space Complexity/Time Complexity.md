@@ -252,3 +252,289 @@ What is depth? The tree is _balanced binary search tree_, if _there are N total 
 Combine together, we get O(2^(log N)).
 But 2^(log N) = N. 
 Therefore, the runtime is O(N), N is number of nodes.
+
+### Example 5
+Checks if a number is _prime_ by checking for divisibility on _numbers less than it_. It only needs to go up to square root of n because if n is divisible by a number > its square root, then it's divisible by something smaller than it.
+
+For example, 33 is divisible by 11 (which is > square root of 33), the "counter-part" to 11 is 3 (3 * 11 = 33). 33 will have already been eliminated as a prime number by 3.
+```java
+boolean isPrime(int n) {
+	for (int x = 2; x * x <= n; x++) {
+		/* O(1) */
+		if (n % x == 0) {
+			return false;
+		}
+	}
+	return true;
+}
+```
+The for loop starts at 2, ends at `x * x = n` => x ends at x = _sqrt(n)_.
+
+The code can be refactored to this:
+```java
+/* O(sqrt(n)) */
+boolean isPrime(int n) {
+	for (int x = 2; x <= sqrt(n); x++) {
+		/* O(1) */
+		if (n % x == 0) {
+			return false;
+		}
+	}
+	return true;
+}
+```
+
+### Example 6
+A straight recursion from n -> n-1 -> n-2 -> ... -> 1.
+```java
+/* O(n) */
+int factorial(int n) {
+	if (n < 0) {
+		return -1;
+	} else if (n == 0) {
+		return 1;	
+	} else {
+		return n + factorial(n-1);
+	}
+}
+```
+
+### Example 7
+Counts al permutations of a string. Takes **O(n^2 n!)**.
+```java
+void permutation(String s) {
+	permutation(s, "");
+}
+
+void permutation(String s, String prefix) {
+	if (s.length() == 0) {
+		System.out.println(prefix);
+	} else {
+		for (int i = 0; i < s.length(); i++) {
+			String rem = s.substring(0, i) + s.substring(i + 1);
+			permutation(rem, prefix + s.charAt(i)); // O(n)
+		}
+	}
+}
+```
+
+There are n! permutations => function is called n! times _in its base case_.
+There are n! leaves, _each leaf is attached to a path of length n_.
+Therefore, there will be _< n x n! nodes (function calls)_ in this tree.
+Runtime for sum of lengths of `rem`, `prefix`, `s.charAt(i)` is O(n).
+
+Calling `permutation` O(n * n!) times _as an upper bound_, each takes O(n) time => O(n * n * n!)
+
+### Example 8
+fib(n) takes O(2^n) times, print n times, so it would be O(n x 2^n).
+```java
+void printAllFib(int n) {
+	for (int i = 0; i < n; i++) {
+		System.out.println(i + ": " fib(i));
+	}
+}
+
+// O(2^n)
+void fib(int n) {
+	if (n <= 0) return 0;
+	else if (n == 1) return 1;
+	return fib(n - 1) + fib(n - 2);
+}
+```
+But each `fib(n)` takes different amout of times. Therefore, it's dominated by the largest O(2^n).
+
+### Example 9
+Same as _Example 7_, but added **memoization**.
+```java
+void printAllFib(int n) {
+	int memo = new int[n + 1];
+	for (int i = 0; i < n; i++) {
+		System.out.println(i + ": " fib(i, memo);
+	}
+}
+
+void fib(int n, int[] memo) {
+	if (n <= 0) return 0;
+	else if (n == 1) return 1;
+
+	else if (memo[n] > 0) return memo[n];
+	memo[n] = fib(n - 1, memo) + fib(n - 2, memo);	
+	return memo[n];
+}
+```
+At each call, we have _already computed & stored values_ for `fib(i-1)` and `fib(i-2)`. This takes O(1). Repeat this with n times, we get O(n).
+
+> This is a very common way to optimize exponential time recursive algorithms.
+
+### Example 10
+Prints the powers of 2 from 1 through n. For example, if n = 4, it prints 1,2 and 4.
+```java
+/* O(log n) */
+int powersOf2(int n) {
+	if (n < 1) {
+		return 0;
+	} else if (n == 1) {
+		System.out.println(1);
+		return 1;
+	} else {
+		int prev = powersOf2(n / 2);
+		int curr = prev * 2;
+		System.out.println(curr);
+		return curr;
+	}
+}
+```
+**One approach** is thinking about what the code is _supposed to be doing_. For example, it prints 13 values at the end, and the _number of function calls = number of powers of 2 (between 1 & n)_, therefore runtime is O(log n).
+
+**Another approach** is to think about _how the runtime changes as n gets bigger_. For example, number of `powersOf2()` calls _increases by 1_ when _n doubles in size_. It's the number of times you can double by 1 _until you get n_, is the `x` in `2^x = n`. And what is `x`? _The value of `log n`_, `x = log n`. Therefore, runtime is O(log n). 
+
+4. x O(a)
+5. x O(2^n) 
+6. x O(sqrt(guess))
+7. x O(2^n)
+8. x O(2^n)
+9. O(n^2)
+10. x O(n )
+11. x O(2^remaining)
+12. x O(n)
+
+### Example 11 
+```java
+/* Computes a^b */
+int power(int a, int b) {
+	if (b < 0) {
+		return 0; // error
+	} else if (b == 0) {
+		return 1;
+	} else {
+		return a * power(a, b - 1);
+	}
+}
+```
+It takes O(b), because it iterates through `b` calls.
+
+### Example 12
+```java
+/* Computes integer division */
+int div(int a, int b) {
+	int count = 0;
+	int sum = b;
+	while (sum <= a) {
+		sum += b;
+		count++;
+	}
+	return count;
+}
+```
+`count` will eventually equals to `a/b`, loop for `count` times. Therefore, it iterates `a/b` times.
+
+### Example 13
+Computes the integer square root of a number. If the number isn't a perfect squart root, return -1. It uses _successive guessing_. If n is 100, it first guess 50. Too high? Try lower - halfway between 1 and 50.
+```java
+int sqrt(int n) {
+	return sqrt_helper(n, 1, n);
+}
+
+int sqrt_helper(int n, int min, int max) {
+	if (max < min) return -1; // No square root
+
+	int guess = (min + max) / 2;
+	if (guess * guess == n) { // Found square root
+		return guess;
+	} else if (guess * guess < n) { // Too low, try higher
+		return sqrt_helper(n, guess + 1, max); 
+	} else { // Too high, try lower
+		return sqrt_helper(n, min, guess - 1);
+	}
+}
+```
+It actually doing a _binary search_ to find the square root. Therefore, the runtime is O(log n).
+
+### Example 14
+If a binary search tree is _not balanced_, how long might it take (worst-case) to find an element in it?
+
+It should take **O(n)** time, where n is _number of nodes_ in the tree. The _max time to find an element_ is the **depth tree**. The tree could be a straight list downwards and have depth of n.
+
+### Example 15
+You have to find a value in a _binary tree_, but it's _not a binary search tree_. 
+
+It should take **O(n)** time. You might have to search through all nodes, without ordering property on the nodes.
+
+### Example 16
+Sums the digits in a number.
+```java
+int sumDigits(int n) {
+	int sum = 0;
+	while (n > 0) {
+		sum += n % 10;
+		n /= 10;
+	}
+	return sum;
+}
+```
+The runtime would be the number of digits. A number with `d` digits can have a value up to `10^d`, `n = 10^d`. 
+Therefore, we simply as `d = log n`. Runtime is **O(log n)**.
+
+> Number system is base 10, a.k.a _decimal system_.
+
+### Example 17
+This code prints all strings of _length k_, where characters are in _sorted order_. It does this by generating all strings of length k, then check if each is sorted. 
+```java
+int numChars = 26; // Number of chars in the alphabet
+
+void printSortedStrings(int remaining) {
+	printSortedStrings(remaining, "");
+}
+
+/*
+* Generate all possible strings of length `remaining`, from `numChars` 26 characters in the alphabet.
+* At top level, the function makes 26 recursive calls.
+* At each subsequent level, each call makes 26 recursive calls.
+* This continues until the `remaining` is 0.
+*/
+void printSortedStrings(int remaining, String prefix) {
+	if (remaining == 0) {
+		if (isInOrder(prefix)) {
+			System.out.println(prefix);
+		}
+	} else {
+		for (int i = 0; i < numChars; i++) {
+			char c = ithLetter(s.charAt(i - 1));
+			printSortedStrings(remaining - 1, prefix + c);
+		}
+	}
+}
+
+void isInOrder(String s) {
+	for (int i = 1; i < s.length(); i++) {
+		int prev = ithLetter(s.charAt(i - 1));
+		int curr = ithLetter(s.charAt(i));
+		if (prev > curr) return false;
+	}
+	return true;
+}
+
+char ithLetter(int i) {
+	return (char) (((int) 'a') + i);
+}
+```
+We denote _k is length of string_ and _c is number of chars in the alphabet_. 
+It takes **O(c^k)** time to generate each string. 
+It takes **O(k)** time to check each of these is sorted.
+Combine together, it takes **O(k c^k)** time.
+
+### Example 18
+**Computes the intersection of 2 arrays.** It assumes neither array has duplicates. It computes by sorting array b then iterate through array a to check each value is in array b.
+```java
+int intersection(int[] a, int[] b) {
+	mergeSort(b);
+	int intersect = 0;
+	for (int x : a) {
+		if (binarySearch(b, x) >= 0) intersect++;
+	}
+	return intersect;
+}
+```
+(Merge) Sort the array b takes **O(b log b)** time.
+Do binary search takes **O(log b)** time, for each element in a, it takes **O(a log b)** time.
+Combine all together, it takes **O(b log b + a log b)** time.
