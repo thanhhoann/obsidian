@@ -5,4 +5,4 @@
 > > Walking Through a Problem
 > 
 
-# Big 0
+[[Time Complexity]]

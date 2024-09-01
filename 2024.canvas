@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1422e955234c7a6b","x":-420,"y":-380,"width":400,"height":400,"type":"group","label":"Resumé"},
+		{"id":"234ee288b6a1fd17","type":"text","text":"Portfolio","x":-208,"y":-144,"width":148,"height":50},
+		{"id":"e8f76dba1183f5fa","x":-295,"y":-337,"width":87,"height":50,"type":"text","text":"Piz"},
+		{"id":"8c54f8784f105af7","x":-348,"y":-220,"width":280,"height":50,"type":"text","text":"Algorithm(s) Visualizer"}
+	],
+	"edges":[]
+}

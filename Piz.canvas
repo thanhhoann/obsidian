@@ -56,7 +56,7 @@
 		{"id":"f3f8bbd76eed1475","type":"file","file":"web-dev/projects/piz/post-reaction-feature.png","x":-1579,"y":-456,"width":399,"height":52},
 		{"id":"d6792ed3b854c86e","type":"link","url":"https://nextjs.org/docs/app/building-your-application/authentication#authentication","x":-2520,"y":-217,"width":600,"height":713},
 		{"id":"be6326f585b3a995","type":"text","text":"research on cookie, session","x":-1002,"y":-140,"width":306,"height":50},
-		{"id":"63e435a51e212d55","type":"file","file":"Next.js Basic Auth Flow.png","x":-2280,"y":-1376,"width":400,"height":346}
+		{"id":"63e435a51e212d55","type":"file","file":"assets/Next.js Basic Auth Flow.png","x":-2280,"y":-1376,"width":400,"height":346}
 	],
 	"edges":[
 		{"id":"11ac97b85d35dcd4","fromNode":"f49e79736dd6c769","fromSide":"left","toNode":"7ca6b9e1640d478f","toSide":"bottom"},
