@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Todos
 
-- [ ] [Learn all Data Structures in this week](https://www.hello-algo.com/en/)
 - [ ] sáng sửa đầu xe
 	chiều sửa đồng hồ
 - [ ] read [this dsa guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
