@@ -4,5 +4,3 @@
 > [!PDF|red] [[Cracking the Coding Interview.pdf#page=73&color=red|Cracking the Coding Interview, p.73]]
 > > Walking Through a Problem
 > 
-
-[[Time Complexity]]
