@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] sáng sửa đầu xe
 	chiều sửa đồng hồ
 - [ ] read [this dsa guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [ ] typing 300 words
 
 
 ## backlog
@@ -33,6 +34,8 @@ kanban-plugin: board
 	[Prisma Client RLS Example](https://github.com/prisma/prisma-client-extensions/tree/main/row-level-security#prisma-client-extension---row-level-security)
 	
 	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
+- [ ] [User Feed Algorithm](https://huggingface.co/Supabase/gte-small)
+	Ref: [AI Search with PGlite & Transformers.js](https://supabase.com/blog/in-browser-semantic-search-pglite?ref=dailydev)
 
 
 ## Completed
