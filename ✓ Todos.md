@@ -8,8 +8,8 @@ kanban-plugin: board
 
 - [ ] sáng sửa đầu xe
 	chiều sửa đồng hồ
-- [ ] read [this dsa guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-- [ ] typing 300 words
+- [ ] revise big 0
+- [ ] learn array
 
 
 ## backlog

@@ -1,0 +1,1 @@
+Sum of first `n` natural numbers: $$ \frac{n(n+1)}{2} $$
