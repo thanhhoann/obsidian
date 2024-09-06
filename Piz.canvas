@@ -57,7 +57,8 @@
 		{"id":"76fe89e4cac8eb13","type":"text","text":"created post","x":-205,"y":-260,"width":175,"height":60},
 		{"id":"e721adaa3d40b7af","type":"text","text":"convert to client-side ","x":-1460,"y":139,"width":280,"height":59,"color":"#00ff33"},
 		{"id":"0dee0e0d91b7ffdb","type":"text","text":"next-cloud","x":400,"y":-45,"width":250,"height":60},
-		{"id":"51139ff21cc04d55","type":"text","text":"tag user on post","x":-960,"y":430,"width":223,"height":55,"color":"#ff0000"}
+		{"id":"51139ff21cc04d55","type":"text","text":"tag user on post","x":-960,"y":430,"width":223,"height":55,"color":"#ff0000"},
+		{"id":"2093f1cc0bedb678","x":-1015,"y":1233,"width":375,"height":50,"type":"text","text":"change post id to base 64 encoded"}
 	],
 	"edges":[
 		{"id":"11ac97b85d35dcd4","fromNode":"f49e79736dd6c769","fromSide":"left","toNode":"7ca6b9e1640d478f","toSide":"bottom"},
