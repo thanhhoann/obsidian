@@ -6,16 +6,33 @@ kanban-plugin: board
 
 ## Todos
 
-- [ ] sáng sửa đầu xe
-	chiều sửa đồng hồ
-- [ ] revise big 0
-- [ ] learn array
+- [ ] comment component #piz
+- [ ] refactor mutations, no using local state #piz
+- [ ] co-locate queries: place within the used component folder (nearest) #piz
+- [ ] _change query keys_
+	'todos'
+	'todos', 'list'
+	'todos', 'list', 'done'
+	'todos', 'item' 
+	'todos', 'item', todo.id
+	```ts
+	const todoKeys = {
+	  all: ['todos'] as const,
+	  lists: () => [...todoKeys.all, 'list'] as const,
+	  list: (filters: string) => [...todoKeys.lists(), { filters }] as const,
+	  details: () => [...todoKeys.all, 'detail'] as const,
+	  detail: (id: number) => [...todoKeys.details(), id] as const,
+	}
+	```
+	#piz
+- [ ] chnage all component name to camelCase #piz
+- [ ] làm tạm trú #vin
+- [ ] post creation error: post_userid_fkey #piz
 
 
 ## backlog
 
 - [ ] re-locate supabase and prisma functions (maybe in @server-actions/supabase or sth)
-- [ ] [Learn React Query](https://tanstack.com/query/latest/docs/framework/react/community/tkdodos-blog)
 - [ ] [consider using neobrutalism style components](https://www.neobrutalism.dev/)
 - [ ] noti toast for
 	- [ ] sign in/up/out
@@ -35,27 +52,10 @@ kanban-plugin: board
 	
 	[useSupabaseRowLevelSecurity](https://github.com/dthyresson/prisma-extension-supabase-rls#usesupabaserowlevelsecurity)
 - [ ] [User Feed Algorithm](https://huggingface.co/Supabase/gte-small)
+	
+	- shared posts
+	
 	Ref: [AI Search with PGlite & Transformers.js](https://supabase.com/blog/in-browser-semantic-search-pglite?ref=dailydev)
-
-
-## Completed
-
-- [ ] tuoi cay @{22-08}
-- [ ] lau quat cho mom @{15-08}
-- [ ] sign in/sign up page @{15-08} #ui
-- [ ] make newly created post above all posts in user feed
-	#user-feed
-- [ ] realtime posts @{21-08}
-- [ ] tháo tivi @{22-08}
-- [ ] post component UI #ui  @{16-08}
-- [ ] fix: show modal on nav bar item when user not signed in #auth @{18-08}
-- [ ] SHCD 2 lecs @{16-08}
-- [ ] #fix user signing up @{16-08}
-- [ ] post 
-	- reactions
-	- settings
-	- optimize
-	- basic completed version @{17-08}
 
 
 ## learns
@@ -74,10 +74,14 @@ kanban-plugin: board
 - [ ] [Why React Query ?](https://ui.dev/why-react-query)
 
 
+***
 
+## Archive
+
+- [x] post id string uuid base 64 #piz 06-09 23:57
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","hide-tags-in-title":true,"hide-tags-display":false,"tag-colors":[{"tagKey":"","color":"rgba(255, 0, 0, 1)","backgroundColor":"rgba(0, 0, 0, 0.1)"}],"date-format":"DD-MM","date-display-format":"DD-MM","hide-date-display":false,"date-colors":[],"hide-date-in-title":true,"show-relative-date":true,"lane-width":300,"list-collapse":[null,null,null]}
+{"kanban-plugin":"board","hide-tags-in-title":true,"hide-tags-display":false,"tag-colors":[{"tagKey":"#piz","color":"rgba(255, 0, 0, 1)","backgroundColor":"rgba(0, 0, 0, 0.1)"}],"date-format":"DD-MM","date-display-format":"DD-MM","hide-date-display":false,"date-colors":[],"hide-date-in-title":true,"show-relative-date":true,"lane-width":500,"list-collapse":[null,null,false],"new-line-trigger":"shift-enter","show-checkboxes":true,"full-list-lane-width":true,"move-tags":true,"archive-with-date":true,"append-archive-date":true,"tag-action":"kanban","move-dates":true,"date-trigger":"@d","time-trigger":"@t"}
 ```
 %%

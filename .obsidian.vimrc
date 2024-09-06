@@ -1,1 +1,1 @@
-nmap jk Esc
+imap jk <Esc>
