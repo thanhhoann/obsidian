@@ -1,0 +1,1 @@
+nmap jk Esc
