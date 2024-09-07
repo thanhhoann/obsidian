@@ -8,26 +8,8 @@ kanban-plugin: board
 
 - [ ] comment component #piz
 - [ ] refactor mutations, no using local state #piz
-- [ ] co-locate queries: place within the used component folder (nearest) #piz
-- [ ] _change query keys_
-	'todos'
-	'todos', 'list'
-	'todos', 'list', 'done'
-	'todos', 'item' 
-	'todos', 'item', todo.id
-	```ts
-	const todoKeys = {
-	  all: ['todos'] as const,
-	  lists: () => [...todoKeys.all, 'list'] as const,
-	  list: (filters: string) => [...todoKeys.lists(), { filters }] as const,
-	  details: () => [...todoKeys.all, 'detail'] as const,
-	  detail: (id: number) => [...todoKeys.details(), id] as const,
-	}
-	```
-	#piz
-- [ ] chnage all component name to camelCase #piz
 - [ ] làm tạm trú #vin
-- [ ] post creation error: post_userid_fkey #piz
+- [ ] create foreign keys #piz
 
 
 ## backlog
@@ -79,6 +61,25 @@ kanban-plugin: board
 ## Archive
 
 - [x] post id string uuid base 64 #piz 06-09 23:57
+- [x] co-locate queries: place within the used component folder (nearest) #piz 07-09 23:02
+- [x] _change query keys_
+	'todos'
+	'todos', 'list'
+	'todos', 'list', 'done'
+	'todos', 'item' 
+	'todos', 'item', todo.id
+	```ts
+	const todoKeys = {
+	  all: ['todos'] as const,
+	  lists: () => [...todoKeys.all, 'list'] as const,
+	  list: (filters: string) => [...todoKeys.lists(), { filters }] as const,
+	  details: () => [...todoKeys.all, 'detail'] as const,
+	  detail: (id: number) => [...todoKeys.details(), id] as const,
+	}
+	```
+	#piz 07-09 23:02
+- [x] chnage all component name to camelCase #piz 07-09 23:02
+- [x] post creation error: post_userid_fkey #piz 07-09 23:02
 
 %% kanban:settings
 ```
