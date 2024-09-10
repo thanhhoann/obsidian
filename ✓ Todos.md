@@ -6,10 +6,10 @@ kanban-plugin: board
 
 ## Todos
 
-- [ ] comment component #piz
-- [ ] refactor mutations, no using local state #piz
-- [ ] làm tạm trú #vin
-- [ ] create foreign keys #piz
+- [x] comment component #piz
+- [x] refactor mutations, no using local state #piz
+- [x] làm tạm trú #vin
+- [x] create foreign keys #piz
 
 
 ## backlog
