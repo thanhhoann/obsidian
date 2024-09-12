@@ -1,1 +1,0 @@
-- [classy ink](https://github.com/DaniGuardiola/classy-ink)
