@@ -1,3 +1,5 @@
+#array #hash-table
+
 > https://leetcode.com/problems/two-sum/
 
 ```js

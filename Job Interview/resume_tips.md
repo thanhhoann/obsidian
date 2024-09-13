@@ -7,7 +7,7 @@ tags: []
 - [x]  Use a pre-designed resume template
 - [x]  Make the resume fit on 1 page 
 - [x]  Include words from job description
-- [ ]  Include company name you are applying to
+- [x] Include company name you are applying to
 - [x]  Does your first item on your resume reflect what they are looking for?
 - [x]  Experience titles demonstrate value
 - [x]  Do you have an online link?
@@ -16,8 +16,8 @@ tags: []
 - [x]  Are you using Action words? (did sth, improves on sth and its results ?)
 - [x]  Measure everything in terms of impact, don’t just describe your responsibilities
 - [x]  Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive
-- [ ]  Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
-- [ ]  No typos or bad grammar
+- [x] Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
+- [x] No typos or bad grammar
 
 # Experience
 ## github
