@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Week 1
 
-- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) ✅ 2024-09-13
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
@@ -54,13 +53,14 @@ kanban-plugin: board
 
 ## :LiBadgeCheck:
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum) ✅ 2024-09-15
+- [x] [Two Sum](https://leetcode.com/problems/two-sum) @d{12-09}
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) @d{13-09}
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false],"lane-width":300,"full-list-lane-width":true,"show-relative-date":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(0, 0, 0, 1)","color":"rgba(0, 255, 92, 1)","isToday":true},{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(0, 0, 0, 1)","color":"rgba(255, 204, 0, 1)","isBefore":true}],"date-trigger":"@d","move-dates":true}
 ```
 %%
