@@ -30,7 +30,7 @@
 		{"id":"ea41d92457ed7544","type":"link","url":"https://www.youtube.com/watch?v=DJvM2lSPn6w&t=381s","x":-2400,"y":-864,"width":640,"height":360},
 		{"id":"f3f8bbd76eed1475","type":"file","file":"web-dev/projects/piz/post-reaction-feature.png","x":-1579,"y":-456,"width":399,"height":52},
 		{"id":"ba057d5c79f7a15e","type":"text","text":"forgot password","x":-746,"y":15,"width":201,"height":60,"color":"#ff0000"},
-		{"id":"51139ff21cc04d55","type":"text","text":"tag user on post","x":-960,"y":430,"width":223,"height":55,"color":"#ff0000"},
+		{"id":"51139ff21cc04d55","type":"text","text":"tag user on post","x":-960,"y":430,"width":223,"height":55,"color":"#00ff11"},
 		{"id":"cd777fa80e089e0e","type":"text","text":"user feed","x":-545,"y":198,"width":145,"height":52,"color":"#ff0000"},
 		{"id":"be6326f585b3a995","type":"text","text":"research on cookie, session","x":-1002,"y":-140,"width":306,"height":50},
 		{"id":"50c57c624d6f2f54","type":"text","text":"sign in","x":-971,"y":75,"width":122,"height":50,"color":"4"},
@@ -57,8 +57,7 @@
 		{"id":"76fe89e4cac8eb13","type":"text","text":"created post","x":-205,"y":-260,"width":175,"height":60},
 		{"id":"f49e79736dd6c769","type":"text","text":"follow/unfollow","x":-29,"y":-370,"width":200,"height":60},
 		{"id":"e8f89b1271203abf","type":"text","text":"copy link","x":37,"y":-483,"width":152,"height":60},
-		{"id":"a484b2461e0d3576","type":"text","text":"images & videos self-hosted","x":-81,"y":75,"width":233,"height":75,"color":"#ff00d0"},
-		{"id":"5ab5b6f52a8fc62c","x":-1680,"y":860,"width":524,"height":521,"type":"text","text":"Stories\n- **After user selected**, when deleting the selection will _re-search_ with remaining search values.\n\t- If select a value, **refills the value**.\n\n- User type \"@\"\n\t- User type additional character(s)\n\t\t- [x] Show suggestions\n\t\t\t- [x] Select a suggestion\n\t\t\t\t- [x] Store search result\n- User delete \"@\"\n\t- [ ] Hide suggestions\n\t- [ ] Delete all search results"}
+		{"id":"a484b2461e0d3576","type":"text","text":"images & videos self-hosted","x":-81,"y":75,"width":233,"height":75,"color":"#ff00d0"}
 	],
 	"edges":[
 		{"id":"11ac97b85d35dcd4","fromNode":"f49e79736dd6c769","fromSide":"left","toNode":"7ca6b9e1640d478f","toSide":"bottom"},
@@ -90,7 +89,6 @@
 		{"id":"14bfeec071bcbb5c","fromNode":"b260d16d013273b2","fromSide":"top","toNode":"11b1634901611a44","toSide":"bottom"},
 		{"id":"f136204e45d9774e","fromNode":"be6326f585b3a995","fromSide":"left","toNode":"d6792ed3b854c86e","toSide":"right"},
 		{"id":"7a190a3e5f6f5472","fromNode":"be6326f585b3a995","fromSide":"left","toNode":"ea41d92457ed7544","toSide":"bottom"},
-		{"id":"b969f280411aaa74","fromNode":"a484b2461e0d3576","fromSide":"right","toNode":"0dee0e0d91b7ffdb","toSide":"left"},
-		{"id":"253ff17c87a43936","fromNode":"51139ff21cc04d55","fromSide":"bottom","toNode":"5ab5b6f52a8fc62c","toSide":"top"}
+		{"id":"b969f280411aaa74","fromNode":"a484b2461e0d3576","fromSide":"right","toNode":"0dee0e0d91b7ffdb","toSide":"left"}
 	]
 }
