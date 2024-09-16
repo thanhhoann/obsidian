@@ -1,8 +1,3 @@
----
-id: useful_sites
-aliases: []
-tags: []
----
 # reads
 - [source](https://qr.ae/ps1BYv)
 - [list of topics](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3)

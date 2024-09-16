@@ -1,8 +1,3 @@
----
-id: job_requirements
-aliases: []
-tags: []
----
 
 - React
 - Next.js

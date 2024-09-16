@@ -1,8 +1,3 @@
----
-id: folder-structures
-aliases: []
-tags: []
----
 
 # UI Components
 

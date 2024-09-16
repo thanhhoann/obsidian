@@ -1,7 +1,14 @@
-#array #hash-table
-
-> https://leetcode.com/problems/two-sum/
-
+---
+completed_at: 2024-09-14
+problem_url: https://leetcode.com/problems/two-sum
+tags:
+  - array
+  - hash-table
+revision_1: false
+revision_2: false
+revision_3: false
+pattern: ""
+---
 ```js
 /**
  * @param {number[]} nums

@@ -1,1 +1,0 @@
-- [x] Practice **Typing** 3 x 100 words _to gain focus_

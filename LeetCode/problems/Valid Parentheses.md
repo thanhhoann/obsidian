@@ -1,7 +1,14 @@
-#stack #string
-
-> https://leetcode.com/problems/valid-parentheses
-
+---
+completed_at: 2024-09-15
+problem_url: https://leetcode.com/problems/valid-parentheses
+tags:
+  - stack
+  - string
+revision_1: 
+revision_2: 
+revision_3: 
+pattern: ""
+---
 ```js
 /**
  * @param {string} s

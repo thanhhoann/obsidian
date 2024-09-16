@@ -1,8 +1,3 @@
----
-id: resume_tips
-aliases: []
-tags: []
----
 
 - [x]  Use a pre-designed resume template
 - [x]  Make the resume fit on 1 page 
