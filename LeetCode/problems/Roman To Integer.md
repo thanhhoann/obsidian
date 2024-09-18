@@ -1,16 +1,16 @@
 ---
-completed_at: 2024-09-17
-problem_url: https://leetcode.com/problems/roman-to-integer
+Completed on: 2024-09-17
+URL: https://leetcode.com/problems/roman-to-integer
 tags:
   - hash-table
   - map
   - string
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
 ---
-```js
+```js title:roman-to-integer.js
 /**
  * @param {string} s
  * @return {number}

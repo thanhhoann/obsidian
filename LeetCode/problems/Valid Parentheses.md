@@ -1,15 +1,15 @@
 ---
-completed_at: 2024-09-15
-problem_url: https://leetcode.com/problems/valid-parentheses
+Completed on: 2024-09-15
+URL: https://leetcode.com/problems/valid-parentheses
 tags:
   - stack
   - string
-revision_1: 
-revision_2: 
-revision_3: 
-pattern: ""
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern: ""
 ---
-```js
+```js title:valid-parentheses.js
 /**
  * @param {string} s
  * @return {boolean}

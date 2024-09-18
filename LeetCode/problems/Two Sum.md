@@ -1,15 +1,15 @@
 ---
-completed_at: 2024-09-14
-problem_url: https://leetcode.com/problems/two-sum
+Completed on: 2024-09-14
+URL: https://leetcode.com/problems/two-sum
 tags:
   - array
   - hash-table
-revision_1: false
-revision_2: false
-revision_3: false
-pattern: ""
+"Revision #1": false
+"Revision #2": false
+"Revision #3": false
+Pattern: ""
 ---
-```js
+```js title:two-sum.js
 /**
  * @param {number[]} nums
  * @param {number} target

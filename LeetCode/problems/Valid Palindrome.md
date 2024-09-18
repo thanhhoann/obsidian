@@ -1,15 +1,15 @@
 ---
-completed_at: 2024-09-16
-problem_url: https://leetcode.com/problems/valid-palindrome
+Completed on: 2024-09-16
+URL: https://leetcode.com/problems/valid-palindrome
 tags:
   - two-pointers
   - string
-revision_1: 
-revision_2: 
-revision_3: 
-pattern: ""
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern: ""
 ---
-```js
+```js title:valid-palindrome.js
 /**
  * @param {string} s
  * @return {boolean}

@@ -1,19 +1,19 @@
 ---
-completed_at: 2024-09-16
-problem_url: https://leetcode.com/problems/majority-element
+Completed on: 2024-09-16
+URL: https://leetcode.com/problems/majority-element
 tags:
   - array
   - hash-table
   - divide-and-conquer
   - sorting
   - counting
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
   - frequencyMap
 ---
-```js
+```js title:majority-element.js
 /**
  * @param {number[]} nums
  * @return {number}

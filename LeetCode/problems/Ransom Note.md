@@ -1,17 +1,17 @@
 ---
-completed_at: 2024-09-16
-problem_url: https://leetcode.com/problems/ransom-note
+Completed on: 2024-09-16
+URL: https://leetcode.com/problems/ransom-note
 tags:
   - hash-table
   - string
   - counting
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
   - frequencyMap
 ---
-```js
+```js title:ransom-note.js
 /**
  * @param {string} ransomNote
  * @param {string} magazine

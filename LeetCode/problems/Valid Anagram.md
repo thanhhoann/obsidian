@@ -1,16 +1,16 @@
 ---
-completed_at: 2024-09-16
-problem_url: https://leetcode.com/problems/valid-anagram
+Completed on: 2024-09-16
+URL: https://leetcode.com/problems/valid-anagram
 tags:
   - hash-table
   - string
   - sorting
-revision_1: 
-revision_2: 
-revision_3: 
-pattern: frequencyMap
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern: frequencyMap
 ---
-```js
+```js title:valid-anagram.js
 /**
  * @param {string} s
  * @param {string} t

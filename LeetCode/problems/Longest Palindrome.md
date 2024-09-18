@@ -1,21 +1,21 @@
 ---
-completed_at: 2024-09-16
-problem_url: https://leetcode.com/problems/longest-palindrome
+Completed on: 2024-09-16
+URL: https://leetcode.com/problems/longest-palindrome
 tags:
   - hash-table
   - string
   - greedy
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
   - frequencyMap
 ---
 > A **palindrome** is a word, phrase, number, or other sequences of characters that _reads the same forward and backward_ (ignoring spaces, punctuation, and capitalization). For example, the words "madam" and "racecar" are palindromes, as they read the same in both directions. Similarly, the phrase "A man, a plan, a canal, Panama!" is a palindrome when spaces, punctuation, and capitalization are ignored.
 
 > In the _context of programming and algorithms_, checking for palindromes often involves verifying that _a string or sequence of characters is identical when reversed_. This concept is frequently used in problems related to string manipulation and data validation.
 
-```js
+```js title:longest-palindrome.js
 /**
  * @param {string} s
  * @return {number}

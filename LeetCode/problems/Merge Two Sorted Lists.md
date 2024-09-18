@@ -1,13 +1,13 @@
 ---
-completed_at: 
-problem_url: https://leetcode.com/problems/merge-two-sorted-lists
+Completed on: 
+URL: https://leetcode.com/problems/merge-two-sorted-lists
 tags:
   - linked-list
   - recursion
-revision_1: 
-revision_2: 
-revision_3: 
-pattern: ""
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern: ""
 ---
 ```js
 

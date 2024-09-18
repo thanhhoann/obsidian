@@ -1,15 +1,15 @@
 ---
-completed_at: 2024-09-17
-problem_url: https://leetcode.com/problems/longest-common-prefix
+Completed on: 2024-09-17
+URL: https://leetcode.com/problems/longest-common-prefix
 tags:
   - string
   - trie
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
 ---
-```js
+```js title:longest-common-prefix.js
 /**
  * @param {string[]} strs
  * @return {string}

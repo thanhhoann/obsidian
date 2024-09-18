@@ -1,13 +1,13 @@
 ---
-completed_at: 
-problem_url: https://leetcode.com/problems/<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>
+Completed on: <% tp.date.now() %>
+URL: https://leetcode.com/problems/<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>
 tags: 
-revision_1: 
-revision_2: 
-revision_3: 
-pattern:
+"Revision #1": 
+"Revision #2": 
+"Revision #3": 
+Pattern:
 ---
-```js
+```js title:<% tp.file.title.toLowerCase().replace(/\s+/g, '-') %>.js
 
 ```
 
