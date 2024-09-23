@@ -5,7 +5,7 @@ tags:
   - array
   - hash-table
   - sorting
-"Revision #1": 
+"Revision #1": true
 "Revision #2": 
 "Revision #3": 
 Pattern:

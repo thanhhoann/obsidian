@@ -4,11 +4,14 @@ URL: https://leetcode.com/problems/two-sum
 tags:
   - array
   - hash-table
-"Revision #1": false
+"Revision #1": true
 "Revision #2": false
 "Revision #3": false
-Pattern: ""
+Pattern:
+  - complementPairSearch
 ---
+## Naive Solution O(n^2)
+
 ```js title:two-sum.js
 /**
  * @param {number[]} nums
@@ -22,6 +25,25 @@ const twoSum = (nums, target) => {
 			const sum = base + nums[j];
 			if (sum === target && i !== j) return [i, j];
 		}
+	}
+};
+```
+
+## Optimal Solution O(n)
+
+```js title:two-sum.js
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+const twoSum = (nums, target) => {
+	const hashMap = {};
+
+	for (let i = 0; i < nums.length; i++) {
+		if (hashMap[nums[i]] !== undefined) 
+			return [i, hashMap[nums[i]]];
+		hashMap[target - nums[i]] = i;
 	}
 };
 ```

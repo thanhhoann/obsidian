@@ -7,7 +7,7 @@ tags:
 "Revision #1": 
 "Revision #2": 
 "Revision #3": 
-Pattern: ""
+Pattern: []
 ---
 ```js title:best-time-to-buy-and-sell-stocks.js
 /**
