@@ -4,7 +4,7 @@ URL: https://leetcode.com/problems/longest-common-prefix
 tags:
   - string
   - trie
-"Revision #1": 
+"Revision #1": true
 "Revision #2": 
 "Revision #3": 
 Pattern:

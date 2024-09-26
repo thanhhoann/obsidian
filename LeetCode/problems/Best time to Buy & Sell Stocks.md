@@ -4,10 +4,10 @@ URL: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 tags:
   - array
   - dynamic-programming
-"Revision #1": 
+"Revision #1": true
 "Revision #2": 
 "Revision #3": 
-Pattern: []
+Pattern:
 ---
 ```js title:best-time-to-buy-and-sell-stocks.js
 /**

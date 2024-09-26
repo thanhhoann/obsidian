@@ -5,7 +5,7 @@ tags:
   - hash-table
   - string
   - greedy
-"Revision #1": 
+"Revision #1": true
 "Revision #2": 
 "Revision #3": 
 Pattern:
@@ -22,7 +22,8 @@ Pattern:
  */
 const longestPalindrome = (s) => {
 	const frequencyMap = {};
-	for (const char of s) frequencyMap[char] = (frequencyMap[char] || 0) + 1;
+	for (const char of s) 
+		frequencyMap[char] = (frequencyMap[char] || 0) + 1;
 
 	let atLeastOneOdd = false;
 	let longestPalindromeLength = 0;
@@ -30,8 +31,8 @@ const longestPalindrome = (s) => {
 	for (const count of Object.values(frequencyMap)) {
 		if (count % 2 === 1) {
 			atLeastOneOdd = true;
-			// Add the maximum even number of the odd counts if it's odd
-			// For example, if we have 5 'a's, we can only use 4 of them
+			// Add the maximum even of the odd counts if it's odd
+			// For example, if we have 5 'a's, only use 4 of them
 			longestPalindromeLength += count - 1;
 		} else {
 			// Add all counts if it's even

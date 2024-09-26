@@ -5,7 +5,7 @@ tags:
   - two-pointers
   - string
   - string-matching
-"Revision #1": 
+"Revision #1": true
 "Revision #2": 
 "Revision #3": 
 Pattern:
