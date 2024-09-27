@@ -5,7 +5,7 @@ tags:
   - string
   - trie
 "Revision #1": true
-"Revision #2": 
+"Revision #2": true
 "Revision #3": 
 Pattern:
 ---
