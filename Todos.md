@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## ⚙️ Fix
+## ⚙️ Fix _Piz_
 
 - [ ] toast only for app user (and no other user) @[[18-09]]
 - [ ] hydration post timeDiff @[[19-09]]
@@ -12,13 +12,13 @@ kanban-plugin: board
 - [ ] update SQL functions after migrated @[[17-09]]
 
 
-## ✨ Feature
+## ✨ Feature _Piz_
 
 - [ ] decorate UI for mention suggestions @[[17-09]]
 - [ ] optimize page loads @[[18-09]]
 
 
-## 📚 Learn
+## 📚 Learn _DSA_
 
 - [x] practice string 3 problems @[[17-09]]
 - [ ] study solutions
@@ -30,10 +30,14 @@ kanban-plugin: board
 - [ ] practice linked list 3 problems @[[19-09]]
 
 
+## School
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"move-dates":true,"show-relative-date":true,"link-date-to-daily-note":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(110, 255, 0, 0)","color":"rgba(255, 0, 85, 1)"}],"lane-width":290,"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"move-dates":true,"show-relative-date":true,"link-date-to-daily-note":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(110, 255, 0, 0)","color":"rgba(255, 0, 85, 1)"}],"lane-width":290,"show-checkboxes":true}
 ```
 %%
