@@ -32,6 +32,8 @@ kanban-plugin: board
 
 ## School
 
+- [ ] Web Lab _starts on 18/10_
+- [ ] ISMS Lab: https://overthewire.org/wargames/bandit/bandit13.html
 
 
 
