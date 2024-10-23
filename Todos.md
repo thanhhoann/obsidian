@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## :LiBadgeCheck: *Today*
@@ -24,8 +26,9 @@ kanban-plugin: board
 
 ## :LiSchool: _School_
 
-- [ ] Web Lab _starts on 18/10_
+- [x] Web Lab _starts on 18/10_
 - [ ] ISMS Lab: https://overthewire.org/wargames/bandit/bandit13.html
+- [ ] ISMS: Start doing report & presentation
 
 
 ## :LiFolderCheck: Completed
@@ -47,6 +50,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"move-dates":true,"show-relative-date":true,"link-date-to-daily-note":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(110, 255, 0, 0)","color":"rgba(255, 0, 85, 1)"}],"lane-width":290,"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"move-dates":true,"show-relative-date":true,"link-date-to-daily-note":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(110, 255, 0, 0)","color":"rgba(255, 0, 85, 1)"}],"lane-width":290,"show-checkboxes":true}
 ```
 %%
