@@ -1,3 +1,13 @@
+## School
+### Mobile App
+- Learn Kotlin
+- Plan on Mobile App Project
+### ISMS
+- Plan on report
+- Do Seed labs
+### Web 
+- [[Piz Todos]]
+
 ## Personal: Tackle the Unfinishing Loop
 - Imagine what the final (MVP) version looks like, perfection is redundant.
 - Set small time-boxed milestones.
@@ -16,6 +26,3 @@
 - Revise all leetcode problems
 - Do 20 new leetcode problems 
 	- -> Translate to kotlin
-## School: Mobile App
-- Learn Kotlin
-- Plan on Mobile App Project
