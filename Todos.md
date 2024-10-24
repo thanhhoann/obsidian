@@ -27,7 +27,9 @@ kanban-plugin: board
 ## :LiSchool: _School_
 
 - [x] Web Lab _starts on 18/10_
-- [ ] ISMS Lab: https://overthewire.org/wargames/bandit/bandit13.html
+- [ ] ISMS Lab: 
+	- [Bandit](https://overthewire.org/wargames/bandit/bandit13.html)
+	- Seed Labs
 - [ ] ISMS: Start doing report & presentation
 
 
