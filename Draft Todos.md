@@ -3,7 +3,7 @@
 - Learn Kotlin
 - Plan on Mobile App Project
 ### ISMS
-- Plan on report
+- [x] Plan on report
 - Do Seed labs
 ### Web 
 - [[Piz Todos]]
