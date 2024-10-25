@@ -15,6 +15,8 @@
 - :LiRocket: Toast
 - :LiRocket: Plan on hiding sidebar on auth pages
 
+- :LiBook: Database schema
+- :LiBook: Project components diagram
 ## What can be improved ?
 ### Use level-based dark colors
 - **Level 0 (Base)**: Used for the primary background.
