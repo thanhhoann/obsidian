@@ -5,6 +5,7 @@
 ### ISMS
 - [x] Plan on report
 - Do Seed labs
+- [x] Report: add a (threat, vulnerability, asset & consequences, risk, solution) table
 ### Web 
 - [[Piz Todos]]
 
