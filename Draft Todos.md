@@ -8,6 +8,9 @@
 - [x] Report: add a (threat, vulnerability, asset & consequences, risk, solution) table
 ### Web 
 - [[Piz Todos]]
+#### Lab
+- Learn PHP
+- Submit on UWE Blackboard Workshop 03
 
 ## Personal: Tackle the Unfinishing Loop
 - Imagine what the final (MVP) version looks like, perfection is redundant.
