@@ -8,6 +8,20 @@
 - [x] Report: add a (threat, vulnerability, asset & consequences, risk, solution) table
 ### Web 
 - [[Piz Todos]]
+- report (17/1/2025)
+	- cover page
+	- toc
+	- chap 1: introduction
+		- intro to the project, expected results
+	- chap 2: tech review
+		- similiar existing apps?
+		- tech stack?
+		- tools used?
+		- testing?
+	- chap 3: system requirements
+		- diagrams, umls
+	- chap 4: implementation
+	- chap 5: conclusion
 #### Lab
 - Learn PHP
 - Submit on UWE Blackboard Workshop 03
