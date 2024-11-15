@@ -1,10 +1,11 @@
 
 > Piz has 2 databases: dev (MySQL) & production (Supabase)
 
-- [x] [Apply strong password](https://zenui.net/components/strong-password)
-	- [x] User sign up successfully
-- [ ] Fix UI responsive
-	- [ ] Navbar
+# Checklist
+- [ ] UI Responsive on Desktop & Mobile
+- [ ] App functionalities
+	- [ ] ...
+- [ ] Connect to MySQL & fully functions like Supabase
 - [ ] [Write docs](https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/?ref=dailydev)
 
 ## What is missing here ?
