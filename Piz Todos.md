@@ -2,7 +2,7 @@
 > Piz has 2 databases: dev (MySQL) & production (Supabase)
 
 # Checklist
-- [ ] UI Responsive on Desktop & Mobile
+- [ ] UI Responsive
 	- 
 - [ ] App functionalities
 	- [ ] ...
@@ -10,9 +10,11 @@
 - [ ] [Write docs](https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/?ref=dailydev)
 
 ## What is missing here ?
-- :LiBug: The like button keep loading
+
 - :LiBug: Page loading speed
-- :LiBug: Fix UI on sign up page
+
+- :LiBug: UI Sign up page
+- :LiBug: UI The like button keep loading
 
 - :LiRocket: Toast
 - :LiRocket: Plan on hiding sidebar on auth pages
