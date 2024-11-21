@@ -3,6 +3,7 @@
 
 # Checklist
 - [ ] UI Responsive on Desktop & Mobile
+	- 
 - [ ] App functionalities
 	- [ ] ...
 - [ ] Connect to MySQL & fully functions like Supabase
