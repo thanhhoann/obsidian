@@ -11,6 +11,13 @@ kanban-plugin: board
 - [ ] like button infinite loading
 
 
+## Do now _IMPORTANT_
+
+- [ ] migrate to MySQL
+- [ ] liking, commenting, sharing, viewing post: show popup to signin when user is not logged in
+- [ ] decorate profile ppage
+
+
 ## Do now _but not important_
 
 - [ ] only shows form on sign-in/up pages
@@ -26,6 +33,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
