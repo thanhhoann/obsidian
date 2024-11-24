@@ -1,11 +1,24 @@
-### Mobile App
+# Plan
+- Prepare knowledge for Mobile and Web final exams **EVERY NIGHT**
+- Track **Mobile app** project to make sure it doesnt overdue
+## 30/12
+- [[Piz phases]] 1
+## 15/12
+- [[Piz phases]] 2
+- ISMS Report & Presentation 
+## 20/12
+- [[Piz phases]] 3
+- Web Report
+
+---
+### Mobile App (15/01)
 - Prepare knowledge on Kotlin & Kotlin Android for exam.
 - Speed up on project.
-### ISMS
+### ISMS (08/01)
 > **:LiTimer: 08/01**: Report + Presentation Submission
 > **:LiTimer: 08/01**: Report + Presentation Submission
 - Perfect the report before December.
-### Web 
+### Web (17/01)
 > **:LiTimer: 17/01**: Report 
 - COMPLETE ON [[Piz Todos]] !
 - Final exam

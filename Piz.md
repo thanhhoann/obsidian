@@ -7,7 +7,6 @@ kanban-plugin: board
 ## :LiBug:
 
 - [ ] sign up page
-- [ ] loading speed
 - [ ] like button infinite loading
 
 
@@ -16,6 +15,7 @@ kanban-plugin: board
 - [ ] migrate to MySQL
 - [ ] liking, commenting, sharing, viewing post: show popup to signin when user is not logged in
 - [ ] decorate profile ppage
+- [ ] remove dark/light mode toggle
 
 
 ## Do now _but not important_
