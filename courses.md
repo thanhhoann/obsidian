@@ -1,7 +1,7 @@
 # Plan
 - Prepare knowledge for Mobile and Web final exams **EVERY NIGHT**
 - Track **Mobile app** project to make sure it doesnt overdue
-## 30/12
+## 01/12
 - [[Piz phases]] 1
 ## 15/12
 - [[Piz phases]] 2
