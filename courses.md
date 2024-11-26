@@ -3,7 +3,8 @@
 - Track **Mobile app** project to make sure it doesnt overdue
 ## 01/12
 - [[Piz phases]] 1
-- Final Lab Exam Mobile
+## 09/12
+- Final Lab Exam Mobile 
 ## 15/12
 - [[Piz phases]] 2
 - ISMS Report & Presentation 
