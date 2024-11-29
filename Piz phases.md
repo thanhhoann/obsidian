@@ -1,6 +1,8 @@
+> Completed deployment on dev/appwrite
+
 # Phases
 ## Phase 1: A complete social media (30/12)
-- Migrated to MySQL
+- Migrated to MySQL 
 - Replace **Supabase Auth** with [stack-auth](https://github.com/stack-auth/stack)
 - Replace **Supabase Realtime** with **React Query**
 - Replace all db actions with MySQL
