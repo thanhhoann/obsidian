@@ -1,6 +1,6 @@
 # Plan
-- Prepare knowledge for Mobile and Web final exams **EVERY NIGHT**
-- Track **Mobile app** project to make sure it doesnt overdue
+- Web learn PHP, UML
+- Mobile learn Kotlin
 ## 01/12
 - [[Piz phases]] 1
 ## 09/12
@@ -18,10 +18,10 @@
 - Speed up on project.
 ### ISMS (08/01)
 > **:LiTimer: 08/01**: Report + Presentation Submission
-> **:LiTimer: 08/01**: Report + Presentation Submission
 - Perfect the report before December.
 ### Web (17/01)
 > **:LiTimer: 17/01**: Report 
+> Doing report, intro the theory first then link to the example you made in the project.
 - COMPLETE ON [[Piz Todos]] !
 - Final exam
 	- JS coding
@@ -52,5 +52,6 @@
 	- Chap 4: implementation
 		- screenshots
 	- Chap 5: conclusion
+
 
 
