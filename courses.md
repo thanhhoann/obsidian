@@ -1,11 +1,14 @@
 # TODOS
-- Mobile: Connect TMDB & Firebase
+## ASAP
+- ISMS: Do report 15/12
+- Mobile: Do lab 9 3/12
+- [x] Web: Do workshop 05 3/12
+- Mobile: Connect TMDB & Firebase 5/12
+- Web: Complete Piz Phase 1 5/12
+## Everyday
 - Mobile: Learn Kotlin mcq
-
-- Web: Complete Piz Phase 1
 - Web: Learn PHP
 
-- ISMS: Do report 15/12
 # Plan
 - Web learn PHP, UML
 - Mobile learn Kotlin
