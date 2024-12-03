@@ -1,17 +1,14 @@
 # TODOS
 ## ASAP
-- ISMS: Do report 15/12
-- Mobile: Do lab 9 3/12
-- [x] Web: Do workshop 05 3/12
-- Mobile: Connect TMDB & Firebase 5/12
 - Web: Complete Piz Phase 1 5/12
+- Mobile: Connect TMDB & Firebase 5/12
+- ISMS: Do report 15/12
+- [x] Web: Do workshop 05 9/12
+- Mobile: Do lab 9 20/12
 ## Everyday
 - Mobile: Learn Kotlin mcq
 - Web: Learn PHP
-
 # Plan
-- Web learn PHP, UML
-- Mobile learn Kotlin
 ## 01/12
 - [[Piz phases]] 1
 ## 09/12
@@ -27,6 +24,7 @@
 ### Mobile App (15/01)
 - Prepare knowledge on Kotlin & Kotlin Android for exam.
 - Speed up on project.
+- Retrofit, Moshi, Glide
 ### ISMS (08/01)
 > **:LiTimer: 08/01**: Report + Presentation Submission
 - Perfect the report before December.
