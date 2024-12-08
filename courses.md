@@ -2,6 +2,7 @@
 ## ASAP
 - Web: Complete Piz Phase 1 5/12
 - Mobile: Connect TMDB & Firebase 5/12
+- Web: Report 13/12
 - ISMS: Do report 15/12
 - [x] Web: Do workshop 05 9/12
 - Mobile: Do lab 9 20/12
