@@ -91,3 +91,5 @@ A social networking site built for students at IU to share their ideas or comple
 - I don't like to spend money, so I'll stick to free tier (text only)
 - String validation on student number
 - AI for chatbot to index the searching idea, or simply gather all ideas to create a new one (if the student ask to create a new one)
+
+# how to be better than now ?
