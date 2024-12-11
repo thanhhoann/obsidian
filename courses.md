@@ -1,11 +1,17 @@
 # TODOS
 ## ASAP
-- Web: Complete Piz Phase 1 5/12
-- Mobile: Connect TMDB & Firebase 5/12
-- Web: Report 13/12
-- ISMS: Do report 15/12
-- [x] Web: Do workshop 05 9/12
-- Mobile: Do lab 9 20/12
+- Web: Report Review on Friday 13/12 
+- Mobile: Lab 10 on Sunday 15/12
+- ISMS: Report & Presentation on 25/12
+	- Longer texts, fewer listings
+	- Paraphrase more, no plagarism or AI-generated
+		o Why ISMS is important
+		o Real-world Examples
+		o Risk Assessment: Risk Analysis
+		o Risk Assessment: Risk Evaluation
+		o Risk Treatment
+		o Critical Reflection
+		o Conclusion
 ## Everyday
 - Mobile: Learn Kotlin mcq
 - Web: Learn PHP
@@ -29,6 +35,7 @@
 ## ISMS (08/01)
 > **:LiTimer: 08/01**: Report + Presentation Submission
 - Perfect the report before December.
+- :LiActivitySquare: Longer texts
 ## Web (17/01)
 > **:LiTimer: 17/01**: Report 
 > Doing report, intro the theory first then link to the example you made in the project.
