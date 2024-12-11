@@ -24,6 +24,7 @@
 
 ---
 ## Search page
+- [ ] Searching no need for realtime updates
 - [ ] User can search other user
 - [ ] User can view user suggested list
 - [ ] User can view other user profile by clicking on their avatar

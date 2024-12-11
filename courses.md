@@ -42,6 +42,7 @@
 	- Ex 4: Code follows MVC
 	- Ex 5: Code
 - Report Content 
+	:LiActivitySquare: quality of describing research
 	- Cover page
 	- TOC
 	- Chap 1: introduction
