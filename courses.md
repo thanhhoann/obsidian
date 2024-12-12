@@ -4,7 +4,7 @@
 - Mobile: Lab 10 on Sunday 15/12
 - ISMS: Report & Presentation on 25/12
 	- Longer texts, fewer listings
-	- Paraphrase more, no plagarism or AI-generated
+	- AI-generated detected
 		o Why ISMS is important
 		o Real-world Examples
 		o Risk Assessment: Risk Analysis
@@ -12,9 +12,9 @@
 		o Risk Treatment
 		o Critical Reflection
 		o Conclusion
-## Everyday
-- Mobile: Learn Kotlin mcq
-- Web: Learn PHP
+# Note
+- Web learn _how to draw UMLs_ and _PHP_.
+- Mobile learn _content in UWE slides_ and _Kotlin Android MCQs_.
 # Plan
 ## 01/12
 - [[Piz phases]] 1
