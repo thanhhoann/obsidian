@@ -20,10 +20,6 @@
 - Project
 - Final Exam :LiPersonStanding:
 ---
-## 12/12
-- [x] Mobile: Lab 10
-- [ ] Web: Report
-- [ ] Web: Project
 ## ASAP
 - Web: Report Review on Friday 13/12 
 - Mobile: Lab 10 on Sunday 15/12
@@ -69,7 +65,6 @@
 	- Ex 4: Code follows MVC
 	- Ex 5: Code
 - Report Content 
-	:LiActivitySquare: quality of describing research
 	- Cover page
 	- TOC
 	- Chap 1: introduction
@@ -80,12 +75,10 @@
 		- tools used?
 		- testing?
 	- Chap 3: system requirements
-		- diagrams...
 		- system architecture diagram (MVC, ...)
 		- sequence diagram (2 features)
 		- ERD
 		- class diagram
-		- must follow uml format
 		- db schema
 	- Chap 4: implementation
 		- screenshots
