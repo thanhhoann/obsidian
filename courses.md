@@ -1,10 +1,35 @@
 # TODOS
+## All things in this semester
+- Everyday (prepare for _final exams_)
+	- PHP
+	- UMLs
+	- Kotlin Android
+	- Kotlin in UWE Slides
+### Web (Individual)
+- Report
+- Presentation
+- Project (same as IT Project)
+- Final Exam :LiPersonStanding:
+### ISMS (Individual)
+- Report + Presentation (Self-made video) **25/12**
+### IT Project (Individual)
+- Report
+- Project (same as Web)
+### Mobile (Team)
+- Report
+- Project
+- Final Exam :LiPersonStanding:
+---
+## 12/12
+- [x] Mobile: Lab 10
+- [ ] Web: Report
+- [ ] Web: Project
 ## ASAP
 - Web: Report Review on Friday 13/12 
 - Mobile: Lab 10 on Sunday 15/12
 - ISMS: Report & Presentation on 25/12
 	- Longer texts, fewer listings
-	- AI-generated detected
+	- AI-generated content detected
 		o Why ISMS is important
 		o Real-world Examples
 		o Risk Assessment: Risk Analysis
@@ -29,13 +54,8 @@
 
 ---
 ## Mobile App (15/01)
-- Prepare knowledge on Kotlin & Kotlin Android for exam.
-- Speed up on project.
-- Retrofit, Moshi, Glide
-## ISMS (08/01)
-> **:LiTimer: 08/01**: Report + Presentation Submission
-- Perfect the report before December.
-- :LiActivitySquare: Longer texts
+- Libraries: Retrofit, Moshi, Glide
+## ISMS 
 ## Web (17/01)
 > **:LiTimer: 17/01**: Report 
 > Doing report, intro the theory first then link to the example you made in the project.
@@ -99,5 +119,3 @@ A social networking site built for students at IU to share their ideas or comple
 - I don't like to spend money, so I'll stick to free tier (text only)
 - String validation on student number
 - AI for chatbot to index the searching idea, or simply gather all ideas to create a new one (if the student ask to create a new one)
-
-# how to be better than now ?
