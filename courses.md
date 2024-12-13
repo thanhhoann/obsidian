@@ -7,18 +7,18 @@
 	- Kotlin in UWE Slides
 ### Web (Individual)
 - Report
-- Presentation
+- Presentation 17/1 8h
 - Project (same as IT Project)
-- Final Exam :LiPersonStanding:
+- Final Exam 6/1 8h A2.509
+### Mobile (Team)
+- Report
+- Project
+- Final Exam 6/1 10h15 LA1.604
 ### ISMS (Individual)
 - Report + Presentation (Self-made video) **25/12**
 ### IT Project (Individual)
 - Report
 - Project (same as Web)
-### Mobile (Team)
-- Report
-- Project
-- Final Exam :LiPersonStanding:
 ---
 ## ASAP
 - Web: Report Review on Friday 13/12 
