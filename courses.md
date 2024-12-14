@@ -1,19 +1,21 @@
 # TODOS
 ## All things in this semester
+- **The most important**: Piz
 - Everyday (prepare for _final exams_)
 	- PHP
 	- UMLs
 	- Kotlin Android
 	- Kotlin in UWE Slides
-### Web (Individual)
-- Report
-- Presentation 17/1 8h
-- Project (same as IT Project)
-- Final Exam 6/1 8h A2.509
 ### Mobile (Team)
 - Report
 - Project
 - Final Exam 6/1 10h15 LA1.604
+### Web (Individual)
+[[adv_web report note]]
+- Report
+- Presentation 17/1 8h
+- Project (same as IT Project)
+- Final Exam 6/1 8h A2.509
 ### ISMS (Individual)
 - Report + Presentation (Self-made video) **25/12**
 ### IT Project (Individual)
@@ -36,18 +38,6 @@
 # Note
 - Web learn _how to draw UMLs_ and _PHP_.
 - Mobile learn _content in UWE slides_ and _Kotlin Android MCQs_.
-# Plan
-## 01/12
-- [[Piz phases]] 1
-## 09/12
-- Final Lab Exam Mobile 
-## 15/12
-- [[Piz phases]] 2
-- ISMS Report & Presentation 
-## 20/12
-- [[Piz phases]] 3
-- Web Report
-
 ---
 ## Mobile App (15/01)
 - Libraries: Retrofit, Moshi, Glide
