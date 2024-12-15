@@ -13,8 +13,9 @@
 ### Web (Individual)
 [[adv_web report note]]
 - Report
-- Presentation 17/1 8h
+- Presentation 17/1 (lab 11,12) 8h
 - Project (same as IT Project)
+	- !!! COMPLETE ALL DIAGRAMS
 - Final Exam 6/1 8h A2.509
 ### ISMS (Individual)
 - Report + Presentation (Self-made video) **25/12**
