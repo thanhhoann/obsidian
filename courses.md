@@ -1,7 +1,9 @@
 # TODOS
 
 ## All things in this semester
-- **The most important**: Piz
+- ⚠ ISMS Report + Presentation 25/12
+- ⚠ Piz (basic) + Web Report 20/12
+- ⚠ Mobile TMDB + Firebase 1/1
 - Everyday (prepare for _final exams_)
 	- PHP
 	- UMLs

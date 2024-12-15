@@ -26,7 +26,7 @@ kanban-plugin: board
 
 ## ideas
 
-- [ ] instead of sending messages, user can send email to other user.
+- [ ] sending messages is same as posting a post, use optimistic updates
 
 
 

@@ -1,0 +1,8 @@
+- High _egotism_
+- Too much _self-thought_
+- Cannot _focus_ for a long period
+- Weak _physical strength_
+- Weak _mind_
+- Weak _emotional control_
+- Too _procrastinate_
+- Not _self-loving_
