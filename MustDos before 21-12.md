@@ -1,5 +1,5 @@
 - Mobile Lab
-- Web Lab
+- [x] Web Lab
 ---
 - ISMS (23/12)
 	- Slides & Presentation Video
