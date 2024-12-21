@@ -14,7 +14,7 @@
 - Project
 - Final Exam 6/1 10h15 LA1.604
 ### Web (Individual)
-[[adv_web report note]]
+[[adv_web todos]]
 - Report
 - Presentation 17/1 (lab 11,12) 8h
 - Project (same as IT Project)
