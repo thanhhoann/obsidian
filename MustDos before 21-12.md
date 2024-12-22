@@ -1,8 +1,3 @@
-_Avoiding Plagiarism_
-- Indent and put quotation marks around any words you copy from original works 
-- Cite frequently when not quoting directly (every three sentences at least if you are using long passages) EVEN WHEN YOU PARAPHRASE 
-- Make sure that for every citation there is a full reference in your reference section
----
 - Mobile Lab
 - [x] Web Lab
 ---
@@ -14,7 +9,7 @@ _Avoiding Plagiarism_
 		- 3000 words
 ---
 - Piz: Core features
-	- Authentication => [stack-auth](https://docs.stack-auth.com/getting-started/setup) or [next-auth](https://authjs.dev/getting-started/installation)
+	- Authentication => [stack-auth](https://docs.stack-auth.com/getting-started/setup) or [next-auth](https://authjs.dev/getting-started/installation)or betterAuth
 	- Post => Change this to thesis-idea
 		- Create
 		- Comment

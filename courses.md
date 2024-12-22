@@ -1,5 +1,13 @@
+
+
+
+
 # TODOS
 
+_Avoiding Plagiarism_
+- Indent and put quotation marks around any words you copy from original works 
+- Cite frequently when not quoting directly (every three sentences at least if you are using long passages) EVEN WHEN YOU PARAPHRASE 
+- Make sure that for every citation there is a full reference in your reference section
 ## All things in this semester
 - ⚠ ISMS Report + Presentation 25/12
 - ⚠ Piz (basic) + Web Report 20/12
