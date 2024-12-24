@@ -1,7 +1,3 @@
-
-
-
-
 # TODOS
 
 _Avoiding Plagiarism_
