@@ -1,5 +1,8 @@
-- Mobile Lab
-- [x] Web Lab
+- ISMS Presentation
+	- 3-5 slides for main points. _Each slide focus on a single idea._
+	- Expand beyond report to give a greater detail _when appropriate._
+- Mobile
+	- Connect TMDB
 ---
 - ISMS (23/12)
 	- Slides & Presentation Video
