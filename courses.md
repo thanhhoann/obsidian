@@ -27,7 +27,8 @@ _Avoiding Plagiarism_
 ### ISMS (Individual)
 - Report + Presentation (Self-made video) **25/12**
 ### IT Project (Individual)
-- Report
+[[IT Project note]]
+- Report 17/1
 - Project (same as Web)
 ---
 ## ASAP

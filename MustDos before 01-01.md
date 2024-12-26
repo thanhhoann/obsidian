@@ -1,17 +1,14 @@
-- ISMS Presentation
-	- 3-5 slides for main points. _Each slide focus on a single idea._
-	- Expand beyond report to give a greater detail _when appropriate._
-- Mobile
+- [ ] Mobile
 	- Connect TMDB
 ---
-- ISMS (23/12)
+- [x] ISMS (23/12)
 	- Slides & Presentation Video
-	- Report
-		- No AI generated content
+		- 3-5 slides for main points. _Each slide focus on a single idea._
+		- Expand beyond report to give a greater detail _when appropriate._ - Report - No AI generated content
 		- Good format
 		- 3000 words
 ---
-- Piz: Core features
+- [ ] Piz: Core features
 	- Authentication => [stack-auth](https://docs.stack-auth.com/getting-started/setup) or [next-auth](https://authjs.dev/getting-started/installation)or betterAuth
 	- Post => Change this to thesis-idea
 		- Create
@@ -21,3 +18,6 @@
 	- User Profile => Change avatar, username, ... (user settings)
 	- Notification => Real-time noti?
 ---
+- [ ] Prepare for Mobile Final Exam
+---
+- [ ] Prepare for Web Final Exam
