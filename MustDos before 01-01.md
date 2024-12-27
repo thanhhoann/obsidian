@@ -1,4 +1,4 @@
-- [ ] Mobile
+- [x] Mobile
 	- Connect TMDB
 ---
 - [x] ISMS (23/12)
@@ -7,6 +7,8 @@
 		- Expand beyond report to give a greater detail _when appropriate._ - Report - No AI generated content
 		- Good format
 		- 3000 words
+---
+- [ ] IT Project Proposal 30/12
 ---
 - [ ] Piz: Core features
 	- Authentication => [stack-auth](https://docs.stack-auth.com/getting-started/setup) or [next-auth](https://authjs.dev/getting-started/installation)or betterAuth
