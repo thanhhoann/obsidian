@@ -1,11 +1,23 @@
 # TODOS
+- Re-check _ISMS_ report and perfect the presentation **08/01**
+- Prepare for _Mobile_ and _Web_ final exams **06/01** 
+	- Mobile: Kotlin Lab Quizzes + UWE Slides
+	- Web: PHP + UMLs
+- Code all _Piz_'s core features 
+	- Post (create, like, comment, share?, delete)
+	- User (signin/up/out, follow/unfollow, edit)
+	- Noti (like, comment, share?)
+	- Search 
+- _Mobile_ project + report **09/01**
+- _Web_ project + report **17/01**
+
 
 _Avoiding Plagiarism_
 - Indent and put quotation marks around any words you copy from original works 
 - Cite frequently when not quoting directly (every three sentences at least if you are using long passages) EVEN WHEN YOU PARAPHRASE 
 - Make sure that for every citation there is a full reference in your reference section
 ## All things in this semester
-- ⚠ ISMS Report + Presentation 25/12
+- ⚠ ISMS Report + Presentation 08/01
 - ⚠ Piz (basic) + Web Report 20/12
 - ⚠ Mobile TMDB + Firebase 25/1
 - Everyday (prepare for _final exams_)
