@@ -123,3 +123,18 @@ A social networking site built for students at IU to share their ideas or comple
 - I don't like to spend money, so I'll stick to free tier (text only)
 - String validation on student number
 - AI for chatbot to index the searching idea, or simply gather all ideas to create a new one (if the student ask to create a new one)
+
+
+# IT Forum
+## Features
+- All social media features
+	- Create, comment, react post
+	- Create, react comment
+	- Follow, unfollow, block user
+- ? Real-time whiteboarding
+- Sharing technical knowledge
+	- Code snippet 
+	- Project
+	- Problem-solving (this can be a solution for a technical problem)
+- Group discussions
+- Focus more on meaningful collaborations & learning, rather than jobs & hiring.
