@@ -1,3 +1,9 @@
+# Todos for 1/1
+- [ ] Post nested comment
+- [ ] Post comments not loaded at first page load
+- [ ] Search
+- [ ] User profile
+- [ ] Web final exam
 # TODOS
 - Re-check _ISMS_ report and perfect the presentation **08/01**
 - Prepare for _Mobile_ and _Web_ final exams **06/01** 
