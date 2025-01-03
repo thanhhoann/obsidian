@@ -73,7 +73,7 @@ _Avoiding Plagiarism_
 > **:LiTimer: 17/01**: Report 
 > Doing report, intro the theory first then link to the example you made in the project.
 - COMPLETE ON [[Piz Todos]] !
-- Final exam
+- **Final exam**
 	- JS coding
 	- Diagram
 	- Ex 1: Given a para, draw usecase
@@ -81,7 +81,7 @@ _Avoiding Plagiarism_
 	- Ex 3: Class or Activity diagram
 	- Ex 4: Code follows MVC
 	- Ex 5: Code
-- Report Content 
+- **Report Content**
 	- Cover page
 	- TOC
 	- Chap 1: introduction
