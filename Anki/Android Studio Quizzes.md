@@ -1,5 +1,3 @@
-# Mobile Lab Quiz
-
 ## Which file extension is used to save Kotlin files?
  a) .java
  b) .kot
@@ -745,9 +743,9 @@
  c) Android manifest  
 
 ## The process of turning a JSON result into usable data, as is done with Gson, is called JSON ___.  
- a) Serialization  
- b) Encoding  
- c) Converting  
- d) Parsing  
+a) Serialization  
+b) Encoding  
+c) Converting  
+d) Parsing  
 ### Answer  
  d) Parsing  
