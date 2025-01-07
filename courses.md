@@ -1,14 +1,8 @@
-# Todos for 1/1
-- [ ] Post nested comment
-- [ ] Post comments not loaded at first page load
-- [ ] Search
-- [ ] User profile
-- [ ] Web final exam
 # TODOS
-- Re-check _ISMS_ report and perfect the presentation **08/01**
-- Prepare for _Mobile_ and _Web_ final exams **06/01** 
-	- Mobile: Kotlin Lab Quizzes + UWE Slides
-	- Web: PHP + UMLs
+- 7/1 Submit ISMS Report + Presentation
+- 11/1 Submit Mobile
+- 17/1 Submit Web
+---
 - Code all _Piz_'s core features 
 	- Post (create, like, comment, share?, delete)
 	- User (signin/up/out, follow/unfollow, edit)
@@ -16,21 +10,11 @@
 	- Search 
 - _Mobile_ project + report **09/01**
 - _Web_ project + report **17/01**
-
-
+---
 _Avoiding Plagiarism_
 - Indent and put quotation marks around any words you copy from original works 
 - Cite frequently when not quoting directly (every three sentences at least if you are using long passages) EVEN WHEN YOU PARAPHRASE 
-- Make sure that for every citation there is a full reference in your reference section
-## All things in this semester
-- ⚠ ISMS Report + Presentation 08/01
-- ⚠ Piz (basic) + Web Report 20/12
-- ⚠ Mobile TMDB + Firebase 25/1
-- Everyday (prepare for _final exams_)
-	- PHP
-	- UMLs
-	- Kotlin Android
-	- Kotlin in UWE Slides
+---
 ### Mobile (Team)
 - Report
 - Project
@@ -42,45 +26,15 @@ _Avoiding Plagiarism_
 - Project (same as IT Project)
 	- !!! COMPLETE ALL DIAGRAMS
 - Final Exam 6/1 8h A2.509
-### ISMS (Individual)
-- Report + Presentation (Self-made video) **25/12**
 ### IT Project (Individual)
 [[IT Project note]]
 - Report 17/1
 - Project (same as Web)
 ---
-## ASAP
-- Web: Report Review on Friday 13/12 
-- Mobile: Lab 10 on Sunday 15/12
-- ISMS: Report & Presentation on 25/12
-	- Longer texts, fewer listings
-	- AI-generated content detected
-		o Why ISMS is important
-		o Real-world Examples
-		o Risk Assessment: Risk Analysis
-		o Risk Assessment: Risk Evaluation
-		o Risk Treatment
-		o Critical Reflection
-		o Conclusion
-# Note
-- Web learn _how to draw UMLs_ and _PHP_.
-- Mobile learn _content in UWE slides_ and _Kotlin Android MCQs_.
----
-## Mobile App (15/01)
-- Libraries: Retrofit, Moshi, Glide
-## ISMS 
 ## Web (17/01)
 > **:LiTimer: 17/01**: Report 
 > Doing report, intro the theory first then link to the example you made in the project.
 - COMPLETE ON [[Piz Todos]] !
-- **Final exam**
-	- JS coding
-	- Diagram
-	- Ex 1: Given a para, draw usecase
-	- Ex 2: Relational table from usecase
-	- Ex 3: Class or Activity diagram
-	- Ex 4: Code follows MVC
-	- Ex 5: Code
 - **Report Content**
 	- Cover page
 	- TOC
