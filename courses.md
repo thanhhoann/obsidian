@@ -1,10 +1,13 @@
 # TODOS
-- 7/1 Submit ISMS Report + Presentation
-- 11/1 Submit Mobile
-- 17/1 Submit Web
+- [x] 7/1 Submit ISMS Report + Presentation
+- [ ] 11/1 Submit Mobile
+- [ ] 17/1 Submit Web
 ---
-- Code all _Piz_'s core features 
+- Piz Todos (change to IT Forum? )
 	- Post (create, like, comment, share?, delete)
+		- Fix post nest not first load
+		- Add share button
+		- Add image upload
 	- User (signin/up/out, follow/unfollow, edit)
 	- Noti (like, comment, share?)
 	- Search 
