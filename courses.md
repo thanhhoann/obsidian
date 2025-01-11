@@ -101,3 +101,15 @@ A social networking site built for students at IU to share their ideas or comple
 	- Problem-solving (this can be a solution for a technical problem)
 - Group discussions
 - Focus more on meaningful collaborations & learning, rather than jobs & hiring.
+
+
+
+`AppContainer.kt` is used to manage and provide dependencies throughout the application. This pattern helps in organizing and centralizing the creation and provision of dependencies, making the code more modular and easier to manage.
+
+`MovieRepository.kt` This file centralizes the logic for fetching movie data, making it easier to manage and testing. It abstracts the data source, allowing the rest of the application to interact with a clean API without worrying about the underlying implementation details.
+
+`MovieUiState.kt` This file centralizes the definition of UI states for different movie categories, making it easier to manage and handle different outcomes of data fetching operations. It helps in creating a more responsive and user-friendly UI by clearly defining how the UI should react to different states of data availability.
+
+`MovieApiService.kt` This file defines the API endpoints and methods for fetching movie data from a remote server using Retrofit. It abstracts the network layer, making it easier to manage and use in the repository and ViewModel layers of the application.
+
+`MovieViewModel.kt` This file defines a `ViewModel` that manages the UI state for various movie categories and details. It uses dependency injection to obtain a `MovieRepository` instance and exposes state flows that UI components can observe to update the UI reactively based on the current state of the data.
