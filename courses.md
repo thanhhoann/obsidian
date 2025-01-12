@@ -1,27 +1,18 @@
 # TODOS
-- [x] 7/1 Submit ISMS Report + Presentation
-- [ ] 11/1 Submit Mobile
 - [ ] 17/1 Submit Web
 ---
-- Piz Todos (change to IT Forum? )
-	- Post (create, like, comment, share?, delete)
-		- Fix post nest not first load
-		- Add share button
-		- Add image upload
-	- User (signin/up/out, follow/unfollow, edit)
-	- Noti (like, comment, share?)
-	- Search 
-- _Mobile_ project + report **09/01**
-- _Web_ project + report **17/01**
----
-_Avoiding Plagiarism_
-- Indent and put quotation marks around any words you copy from original works 
-- Cite frequently when not quoting directly (every three sentences at least if you are using long passages) EVEN WHEN YOU PARAPHRASE 
----
-### Mobile (Team)
-- Report
-- Project
-- Final Exam 6/1 10h15 LA1.604
+## Piz Todos 
+- _FIX (post)_ unable to save new post in db
+- _FIX (post page)_ post comments not loaded on single post page
+- _FIX (profile)_ 
+	- [x] display user info 
+	- [ ] user posts
+	
+- _FEAT (post, comment)_ share button
+- _FEAT (post)_ image upload
+- _FEAT (search)_ search with no auto-complete (raw SQL fetching)
+- _FEAT (noti)_ fetch all related activities when noti page is loaded
+# Courses
 ### Web (Individual)
 [[adv_web todos]]
 - Report
@@ -101,15 +92,3 @@ A social networking site built for students at IU to share their ideas or comple
 	- Problem-solving (this can be a solution for a technical problem)
 - Group discussions
 - Focus more on meaningful collaborations & learning, rather than jobs & hiring.
-
-
-
-`AppContainer.kt` is used to manage and provide dependencies throughout the application. This pattern helps in organizing and centralizing the creation and provision of dependencies, making the code more modular and easier to manage.
-
-`MovieRepository.kt` This file centralizes the logic for fetching movie data, making it easier to manage and testing. It abstracts the data source, allowing the rest of the application to interact with a clean API without worrying about the underlying implementation details.
-
-`MovieUiState.kt` This file centralizes the definition of UI states for different movie categories, making it easier to manage and handle different outcomes of data fetching operations. It helps in creating a more responsive and user-friendly UI by clearly defining how the UI should react to different states of data availability.
-
-`MovieApiService.kt` This file defines the API endpoints and methods for fetching movie data from a remote server using Retrofit. It abstracts the network layer, making it easier to manage and use in the repository and ViewModel layers of the application.
-
-`MovieViewModel.kt` This file defines a `ViewModel` that manages the UI state for various movie categories and details. It uses dependency injection to obtain a `MovieRepository` instance and exposes state flows that UI components can observe to update the UI reactively based on the current state of the data.
