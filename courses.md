@@ -2,16 +2,12 @@
 - [ ] 17/1 Submit Web
 ---
 ## Piz Todos 
-- _FIX (post)_ unable to save new post in db
-- _FIX (post page)_ post comments not loaded on single post page
-- _FIX (profile)_ 
-	- [x] display user info 
-	- [ ] user posts
+- _FIX (post page)_ comments & nested comments are not optmistic updated
+- _FIX (post reaction)_ not loaded on second account testing
+- _FEAT (noti)_ implement activity page
+- _FEAT (home)_ show welcome dialog when unauth-user react or comment to post
 	
-- _FEAT (post, comment)_ share button
-- _FEAT (post)_ image upload
-- _FEAT (search)_ search with no auto-complete (raw SQL fetching)
-- _FEAT (noti)_ fetch all related activities when noti page is loaded
+- _FEAT? (post)_ image upload
 # Courses
 ### Web (Individual)
 [[adv_web todos]]
