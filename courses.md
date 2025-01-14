@@ -5,6 +5,7 @@
 - _FEAT? (post)_ image upload
 
 - _FEAT (noti)_ create noti for comment, comment reaction
+- FIX (post) user info : userid mismatch
 # Courses
 ### Web (Individual)
 [[adv_web todos]]
