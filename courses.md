@@ -2,11 +2,9 @@
 - [ ] 17/1 Submit Web
 ---
 ## Piz Todos 
-- _FIX (post reaction)_ not loaded on second account testing
-- _FEAT (noti)_ implement activity page
-- _FEAT (home)_ show welcome dialog when unauth-user react or comment to post
-	
 - _FEAT? (post)_ image upload
+
+- _FEAT (noti)_ create noti for comment, comment reaction
 # Courses
 ### Web (Individual)
 [[adv_web todos]]
