@@ -1,5 +1,21 @@
 # TODOS
-- 
+- Technology Review _done_
+	- Similar existing apps: paraphrase
+	- Write more used techs, refs
+- System requirements
+	- Database design: rewrite desc _done_
+	- Sequence diagrams: 
+		- user sign in: rewrite desc
+		- create a post: rewrite desc
+		- comment on a post: rewrite desc
+	- Architecture diagram: write desc
+	- Class diagram: rewrite desc
+- Implementation
+	- all pages's getting data methods
+	- optimistic updates on post, comment
+	- nested comment
+- Conclusion: rewrite
+- References
 # Courses
 ### Web (Individual)
 [[adv_web todos]]
